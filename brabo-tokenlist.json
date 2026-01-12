@@ -1,0 +1,21 @@
+{
+  "name": "Brabo Token List",
+  "timestamp": "2025-01-13T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/Leeh-Santos/brabo-token-assets/main/logo.png",
+  "keywords": ["brabo", "defi", "base", "liquidity"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x07f6A4932e8be5Be7a0aC1bfCAB5EF6b95B0b1a2",
+      "symbol": "BRB",
+      "name": "Brabo Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Leeh-Santos/brabo-token-assets/main/logo.png"
+    }
+  ]
+}
